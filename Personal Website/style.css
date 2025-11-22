@@ -1,0 +1,53 @@
+body {
+    background-color: #002244;
+    padding: 20px;
+}
+
+h1 {
+    color: #C60C30;
+    text-align: center;
+}
+
+table {
+    background-color: white;
+    width: 80%;
+    margin: 20px auto;
+}
+
+th {
+    background-color: #002244;
+    color: white;
+    padding: 10px;
+}
+
+td {
+    background-color: white;
+    color: #002244;
+    padding: 10px;
+    text-align: center;
+}
+
+a {
+    color: #C60C30;
+    text-decoration: none;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+}
+
+.card-panel {
+    background-color: #B0B7BC;
+}
+
+.nav-wrapper {
+    background-color: #002244;
+}
+
+.title-panel {
+    background-color: #C60C30;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+}
